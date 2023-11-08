@@ -1,0 +1,25 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  div {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #dedede;
+  }
+  /*  js code for chnage the border color
+  
+  
+  document
+
+document.getElementsByClassName('demo')
+
+var para= document.getElementsByClassName('demo')
+
+undefined
+para[0].style.borderColor='blue';
+'blue'
+para[1].style.borderColor='blue';
+'blue'*/
